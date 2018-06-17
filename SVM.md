@@ -25,4 +25,4 @@ Since functional margin is proportional to w and b, so we can define geometric m
 ![](/equation/svm5.png)  
 where positive yi=1, negative yi=-1  
 The figure is following:  
-![](/fig/svm2.png)   
+![](/fig/svm2.jpg)   
