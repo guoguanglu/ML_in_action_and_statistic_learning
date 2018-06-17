@@ -26,3 +26,23 @@ Since functional margin is proportional to w and b, so we can define geometric m
 where positive yi=1, negative yi=-1  
 The figure is following:  
 ![](/fig/svm2.jpg)   
+**find maximum margin**  
+To get the maximum margin, we can obain following constraint optimal problem:  
+![](/equation/svm6.png)  
+From above equation, we can get:  
+![](/equation/svm7.png) 
+Since funcitonal margin don't affect the constraint optimal problem, so we let it equal 1, and finding max 1/||w|| is equal to finding min 1/2 * ||w||^2, so we can get below equation:  
+![](/equation/svm8.png)  
+Here we can convert into convex quadratic proramming problem. We can use Lagrange function to solve by KKT conditions, here omit intermediate steps, directly give the final function and linear separable SVM algorithm process.  
+1. construct constraint optimal problem to solve Lagrange parameters.  
+![](/equation/svm9.png)  
+2. By Lagrange parameters to compute w* and b*  
+![](/equation/svm10.png)  
+![](/equation/svm11.png)  
+3. Get the classification function:  
+![](/equation/svm12.png)
+
+**Support Vector**:
+From below figure, the points on the H1 and H2 are called support vectors. we can find the support vectors play an important role in the model
+![](/fig/svm3.jpg)
+
