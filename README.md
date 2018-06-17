@@ -11,8 +11,10 @@ Note about statistical learning-Li Hang, and little applications of machine lear
 
 ***  
 # Content  
-* [Support vector machines](#support-vector-machines)  
+* [Support vector machines](#svm.md)
 
-***  
-Support vector machines  
+***
+Reference  
 ---  
+book: statistic learning method ————Li Hang  
+book: Machine learning in action 
