@@ -11,7 +11,7 @@ Note about statistical learning-Li Hang, and little applications of machine lear
 
 ***  
 # Content  
-* [Support vector machines](#svm.md)
+* [Support vector machines](#SVM.md)
 
 ***
 Reference  
