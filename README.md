@@ -2,8 +2,7 @@
 Note about statistical learning-Li Hang, and little applications of machine learning  
 
 ***  
-![](/fig/lihang.jpg)  
-![](/fig/ML_in_action.jpg)  
+![](/fig/lihang.jpg)![](/fig/ML_inaction.jpg)  
 
 ***  
 
