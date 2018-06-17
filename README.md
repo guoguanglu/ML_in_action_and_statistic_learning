@@ -5,7 +5,11 @@ Note about statistical learning-Li Hang, and little applications of machine lear
 ![](/fig/title.png)    
 
 ***  
+- Author: Guo Guanglu  
+- E-mail: 2360889142@qq.com
+- QQ: 2360889142  
 
+***  
 # Content  
 * [Support vector machines](#support-vector-machines)  
 
